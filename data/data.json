@@ -1,0 +1,98 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El penultimo album grabado por The Beatles.",
+    "descripcion": "Disco emblematico de The Beatles, famoso por su portada cruzando la calle."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "the-dark-side-of-the-moon.avif",
+    "slug": "the-dark-side-of-the-moon",
+    "resumen": "Obra maestra del rock progresivo.",
+    "descripcion": "Album conceptual de Pink Floyd que permanecio anos en las listas de exitos."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Hard Rock",
+    "anio": 1980,
+    "sello": "Atlantic",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "slug": "back-in-black",
+    "resumen": "Tributo al cantante Bon Scott.",
+    "descripcion": "Album de AC/DC grabado tras la muerte de Bon Scott, uno de los mas vendidos del rock."
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Rock",
+    "anio": 1977,
+    "sello": "Warner Bros",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "slug": "rumours",
+    "resumen": "Disco nacido entre rupturas de la banda.",
+    "descripcion": "Album de Fleetwood Mac compuesto durante las tensiones personales de sus miembros."
+  },
+  {
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC",
+    "pistas": 13,
+    "imagen": "nevermind.avif",
+    "slug": "nevermind",
+    "resumen": "El album que masifico el grunge.",
+    "descripcion": "Disco de Nirvana que llevo el sonido de Seattle al mainstream mundial."
+  },
+  {
+    "titulo": "Like a Prayer",
+    "artista": "Madonna",
+    "genero": "Pop",
+    "anio": 1989,
+    "sello": "Sire",
+    "pistas": 11,
+    "imagen": "like-a-prayer.avif",
+    "slug": "like-a-prayer",
+    "resumen": "Uno de los discos mas personales de Madonna.",
+    "descripcion": "Album de Madonna que mezclo pop con temas religiosos y sociales."
+  },
+  {
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "slug": "kind-of-blue",
+    "resumen": "El disco de jazz mas influyente.",
+    "descripcion": "Album de Miles Davis considerado la cumbre del jazz modal."
+  }
+]
